@@ -23,6 +23,7 @@
     <img src="https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white"/>
     <img src="https://img.shields.io/badge/php%20-%231572B6.svg?&style=for-the-badge&logo=php&logoColor=white"/>
     <img src="https://img.shields.io/badge/java%20-%23323330.svg?&style=for-the-badge&logo=java&logoColor=white"/>
+    <img src="https://img.shields.io/badge/ruby%20-%23323330.svg?&style=for-the-badge&logo=ruby&logoColor=red"/>
 </p>
 
 ## 
