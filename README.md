@@ -1,7 +1,7 @@
 
 <h2> 
   <p align="center">
-  Olá!! eu sou o Pedro Vitor 
+  Oii eu sou o Pedro Vitor, sou analista de qualidade de software!
   </p>
 </h2>
 
