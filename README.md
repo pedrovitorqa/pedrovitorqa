@@ -5,7 +5,6 @@
   </p>
 </h2>
 
-## Tecnologias🖥️
 <p align="center">
     <br>
     <img src="https://img.shields.io/badge/c%23%20-%23239120.svg?&style=for-the-badge&logo=c-sharp&logoColor=white"/>
