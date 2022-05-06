@@ -5,6 +5,17 @@
   </p>
 </h2>
 
+<center>
+<table>
+    <tr>
+        <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?        
+          username=pedrovitorqa&hide=html,java,php&layout=compact&theme=synthwave" /></td>
+        <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=pedrovitorqa&theme=synthwave"/></td>
+    </tr>   
+</table>
+</center>
+
+
 <p align="center">
     <br>
     <img src="https://img.shields.io/badge/c%23%20-blueviolet.svg?&style=for-the-badge&logo=c-sharp&logoColor=white"/>
