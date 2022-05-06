@@ -9,8 +9,8 @@
 <table>
     <tr>
         <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?        
-          username=pedrovitordev&hide=html,java,php&layout=compact&theme=synthwave" /></td>
-        <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=pedrovitordev&theme=synthwave"/></td>
+          username=pedrovitorqa&hide=html,java,php&layout=compact&theme=synthwave" /></td>
+        <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=pedrovitorqa&theme=synthwave"/></td>
     </tr>   
 </table>
 </center>
