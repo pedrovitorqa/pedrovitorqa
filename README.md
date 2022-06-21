@@ -1,10 +1,3 @@
-
-<h2> 
-  <p align="center">
-  Oii eu sou o Pedro Vitor, sou analista de qualidade de software!
-  </p>
-</h2>
-
 <div align="center">
   <a href="https://github.com/pedrovitorqa">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pedrovitorqa&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
