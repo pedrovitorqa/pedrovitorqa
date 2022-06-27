@@ -1,6 +1,4 @@
 <img align="right" height="150" src="https://media.giphy.com/media/vvcvtGPa4hSiN4TgeY/giphy.gif"/>
-
-##
 <div align="left">
   <a href="https://github.com/pedrovitorqa">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pedrovitorqa&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
