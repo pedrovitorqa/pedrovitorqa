@@ -17,7 +17,7 @@
 </p>
   
 ##
-<br/> 💬  &nbsp; Sobre mim: tecnologias, dogs e curtir com a família
+<br/> 💬  &nbsp; Sobre mim: tecnologias, dogs e sair com os amigos.
 
 ##
 <p align="left">
