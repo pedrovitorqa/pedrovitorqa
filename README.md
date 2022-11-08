@@ -18,14 +18,16 @@
     <img src="https://img.shields.io/badge/java%20-red.svg?&style=for-the-badge&logo=java&logoColor=white"/>
     <img src="https://img.shields.io/badge/php%20-%231572B6.svg?&style=for-the-badge&logo=php&logoColor=white"/>
     <img src="https://img.shields.io/badge/ruby%20-%23323330.svg?&style=for-the-badge&logo=ruby&logoColor=red"/>
-    <img align="right" height="200" src="https://media.giphy.com/media/ao9DUiTKH60XS/giphy.gif"/>
     <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
     <img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
+    <img align="right" height="200" src="https://media.giphy.com/media/ao9DUiTKH60XS/giphy.gif"/>
 </p>
 <br>
-
+<br>
+<br>
 <p align="left">
-  
+<br>
+    
 ## Contato    
 <a href="https://www.linkedin.com/in/pedro-honorio-36ba6a1b8/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </p>
