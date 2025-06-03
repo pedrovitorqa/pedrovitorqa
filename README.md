@@ -36,9 +36,6 @@ Com uma abordagem analítica e focada em resultados, busco sempre aprimorar os p
     
 # 🌐 Redes Sociais:   
 <a href="https://www.linkedin.com/in/pedro-honorio-36ba6a1b8/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-    <img align="right" height="200" src="https://media.giphy.com/media/ao9DUiTKH60XS/giphy.gif"/>
-</p>
-
-  
+</p> 
 <br>
 
