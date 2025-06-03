@@ -3,8 +3,6 @@
 Sou Pedro Honorio, um apaixonado por automações de testes e entusiasta da tecnologia. Atualmente, trabalho como analista de qualidade de software Pleno na Webjump. <br>
 Com mais de 3 anos de experiência no campo, tive a oportunidade de trabalhar em vários projetos interessantes e explorar diferentes tecnologias.
 
-> “Faça, ou não faça. Não existe “tentar” — Yoda
-
 # 🚀 Experiência
 
 Sou profissional de QA com sólida experiência na área de qualidade de software, atuando em diferentes segmentos e projetos de grande relevância. Ao longo da minha trajetória, participei de iniciativas em empresas como Bunge, Starbucks, CCR Aeroportos, Broto, Certisign, Star-E e Lumisfera, contribuindo em todas as etapas cruciais do desenvolvimento para garantir a excelência nos produtos e realizando testes automatizados para garantir a entrega de produtos com alta qualidade.
@@ -30,12 +28,10 @@ Com uma abordagem analítica e focada em resultados, busco sempre aprimorar os p
     <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
     <img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
 </p>
-
 <p align="left">
 </center>
-    
+
 # 🌐 Redes Sociais:   
 <a href="https://www.linkedin.com/in/pedro-honorio-36ba6a1b8/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </p> 
 <br>
-
