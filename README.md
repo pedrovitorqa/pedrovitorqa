@@ -29,6 +29,8 @@ Com uma abordagem analítica e focada em resultados, busco sempre aprimorar os p
     <img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
     <img src="https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)"/>
     <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+    <img src="https://img.shields.io/badge/cypress-green.svg?&style=for-the-badge&logo=cypress&logoColor=white"/>
+    <img src="https://img.shields.io/badge/mysql%20-%231572B6.svg?&style=for-the-badge&logo=mysql&logoColor=white"/>
     
 </p>
 <p align="left">
