@@ -3,7 +3,7 @@
 Sou Pedro Honorio, um apaixonado por automações de testes e entusiasta da tecnologia. Atualmente, trabalho como analista de qualidade de software Pleno na Webjump. <br>
 Com mais de 3 anos de experiência no campo, tive a oportunidade de trabalhar em vários projetos interessantes e explorar diferentes tecnologias.
 
-> “Do, or do not. There is no “try” — Yoda
+> “Faça, ou não faça. Não existe “tentar” — Yoda
 
 # 🚀 Experiência
 
