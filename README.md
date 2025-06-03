@@ -1,15 +1,24 @@
+# 👋 Olá
 
-<center>
-<table>
-    <tr>
-    <td><img width="500px" align="left" src="https://github-readme-stats.vercel.app/api?username=pedrovitorqa&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/> </td>
-     <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrovitorqa&layout=compact&langs_count=7&theme=dracula"/></td>
-    </tr>   
-</table>
-</center>
+Sou Pedro Honorio, um apaixonado por automações de testes e entusiasta da tecnologia. Atualmente, trabalho como analista de qualidade de software Pleno na Webjump. <br>
+Com mais de 3 anos de experiência no campo, tive a oportunidade de trabalhar em vários projetos interessantes e explorar diferentes tecnologias.
 
-## Tecnologias🖥️  
-  <p align="left">
+> “Do, or do not. There is no “try” — Yoda
+
+# 🚀 Experiência
+
+Sou profissional de QA com sólida experiência na área de qualidade de software, atuando em diferentes segmentos e projetos de grande relevância. Ao longo da minha trajetória, participei de iniciativas em empresas como Bunge, Starbucks, CCR Aeroportos, Broto, Certisign, Star-E e Lumisfera, contribuindo em todas as etapas cruciais do desenvolvimento para garantir a excelência nos produtos e realizando testes automatizados para garantir a entrega de produtos com alta qualidade.
+
+Além disso, atuei em um projeto interno da empresa voltado para a gestão de alocação de funcionários, onde fui responsável pela criação de documentações funcionais, elaboração de cenários de testes e implementação de testes automatizados. Essa experiência me proporcionou uma visão mais ampla dos processos internos e da importância da qualidade desde as etapas iniciais do desenvolvimento.
+
+Tenho foco em qualidade, atenção aos detalhes, proatividade na identificação de melhorias e comprometimento com a entrega de soluções eficientes e confiáveis.
+
+Atualmente, estou contribuindo para o projeto MyGaldermaStore, um site que oferece uma experiência de compra online para clientes da área de dermatologia e cuidados com a pele, ajudando a garantir a qualidade de cada funcionalidade e aprimorando a performance da plataforma.
+
+Com uma abordagem analítica e focada em resultados, busco sempre aprimorar os processos de testes, colaborando com a equipe para identificar pontos de melhoria e implementar soluções que atendam às necessidades de qualidade e desempenho.
+
+# 💻 Tech Stack
+<p align="left">
     <br>
     <img src="https://img.shields.io/badge/c%23%20-blueviolet.svg?&style=for-the-badge&logo=c-sharp&logoColor=white"/>
     <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
@@ -23,9 +32,13 @@
 </p>
 
 <p align="left">
-<br>
+</center>
     
-## Contato    
+# 🌐 Redes Sociais:   
 <a href="https://www.linkedin.com/in/pedro-honorio-36ba6a1b8/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
     <img align="right" height="200" src="https://media.giphy.com/media/ao9DUiTKH60XS/giphy.gif"/>
 </p>
+
+  
+<br>
+
