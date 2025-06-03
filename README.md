@@ -31,6 +31,7 @@ Com uma abordagem analítica e focada em resultados, busco sempre aprimorar os p
     <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
     <img src="https://img.shields.io/badge/cypress-green.svg?&style=for-the-badge&logo=cypress&logoColor=white"/>
     <img src="https://img.shields.io/badge/mysql%20-%231572B6.svg?&style=for-the-badge&logo=mysql&logoColor=white"/>
+     <img src="https://img.shields.io/badge/k6%20-%23C13584.svg?&style=for-the-badge&logo=k6&logoColor=white"/>
     
 </p>
 <p align="left">
