@@ -1,19 +1,12 @@
 # 👋 Olá
 
-Sou Pedro Honorio, um apaixonado por automações de testes e entusiasta da tecnologia. Atualmente, trabalho como analista de qualidade de software Pleno na Webjump. <br>
-Com mais de 3 anos de experiência no campo, tive a oportunidade de trabalhar em vários projetos interessantes e explorar diferentes tecnologias.
+Meu nome é Pedro Honorio, QA Engineer na Webjump. Trabalho com uma ampla gama de projetos de QA, desde automação de testes em aplicações web até testes de API e performance, com foco na criação de testes bem estruturados que não apenas identificam bugs, mas também garantem uma experiência de usuário impecável e confiável.
 
 # 🚀 Experiência
 
-Sou profissional de QA com sólida experiência na área de qualidade de software, atuando em diferentes segmentos e projetos de grande relevância. Ao longo da minha trajetória, participei de iniciativas em empresas como Bunge, Starbucks, CCR Aeroportos, Broto, Certisign, Star-E e Lumisfera, contribuindo em todas as etapas cruciais do desenvolvimento para garantir a excelência nos produtos e realizando testes automatizados para garantir a entrega de produtos com alta qualidade.
+Atuo como profissional de Qualidade de Software em ambientes ágeis, promovendo práticas de shift-left testing e cultura de qualidade desdeo início do desenvolvimento. GraphQL Experiência na criação e manutenção de testes automatizados Web e API utilizando JavaScript e Ruby, com ferramentas como Cypress e Capybara. Realizo testes em APIs REST e GraphQL utilizando Postman e automações com Newman.
 
-Além disso, atuei em um projeto interno da empresa voltado para a gestão de alocação de funcionários, onde fui responsável pela criação de documentações funcionais, elaboração de cenários de testes e implementação de testes automatizados. Essa experiência me proporcionou uma visão mais ampla dos processos internos e da importância da qualidade desde as etapas iniciais do desenvolvimento.
-
-Tenho foco em qualidade, atenção aos detalhes, proatividade na identificação de melhorias e comprometimento com a entrega de soluções eficientes e confiáveis.
-
-Atualmente, estou contribuindo para o projeto MyGaldermaStore, um site que oferece uma experiência de compra online para clientes da área de dermatologia e cuidados com a pele, ajudando a garantir a qualidade de cada funcionalidade e aprimorando a performance da plataforma.
-
-Com uma abordagem analítica e focada em resultados, busco sempre aprimorar os processos de testes, colaborando com a equipe para identificar pontos de melhoria e implementar soluções que atendam às necessidades de qualidade e desempenho.
+Atuo com BDD utilizando Cucumber e integração contínua (CI/CD), além do gerenciamento do ciclo de vida de bugs utilizando Jira. Destaco-me pela proatividade, organização e comunicação, atuando diretamente no relacionamento com clientes e na tradução de demandas técnicas em soluções de negócio. Participação ativa em cerimônias ágeis com Scrum.
 
 # 💻 Tech Stack
 <p align="left">
