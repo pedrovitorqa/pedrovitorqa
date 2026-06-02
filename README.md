@@ -1,6 +1,11 @@
 # 👋 Olá
 
-Meu nome é Pedro Honorio, QA Engineer na Webjump. Trabalho com uma ampla gama de projetos de QA, desde automação de testes em aplicações web até testes de API e performance, com foco na criação de testes bem estruturados que não apenas identificam bugs, mas também garantem uma experiência de usuário impecável e confiável.
+Meu nome é Pedro Honorio, QA Engineer na Webjump. Sou formado em Análise e Desenvolvimento de Sistemas e atualmente estou me especializando com uma pós-graduação em Engenharia da Qualidade de Software.
+
+Atuo em uma ampla gama de projetos de QA, desde automação de testes em aplicações web até testes de API e performance, com foco na criação de testes bem estruturados que não apenas identificam bugs, mas também garantem uma experiência de usuário confiável e de alta qualidade.
+
+Possuo certificação GitHub Copilot pela Microsoft e experiência na criação, organização e automação de cenários de teste, sempre buscando eficiência, escalabilidade e melhoria contínua nos processos de qualidade.
+
 
 # 🚀 Experiência
 
